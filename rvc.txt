@@ -1,0 +1,1 @@
+fiz umas mudanças nesse projeto mudando versao python de 3.10 para 3.11.9 C:\Users\Administrador\Downloads\armoredcreator-rvc\ArmoredStudio ja fiz teste ele conseguiu converter a voz para o modelo melody perfeitamente oque eu quero saber e quais bibliotecas desnecessarias para conversao de voz tem dentro desse projeto pois ele carrega quase 2 gb de libs 
